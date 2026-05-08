@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/9bec75ed-803f-43db-b231-50a9544a98a5
 ## 🔗 Links
 
 - **Wireframe:** [View Wireframe](https://algure.github.io/agjllhqilw_1778264725187/)
-- **Exported ZIP:** [Download](https://github.com/SavrTech/NexusIOT/releases/download/nexus/NexusIOT001.zip)
+- **Exported ZIP:** [Download](https://github.com/SavrTech/PyCalc/releases/download/Export/PyUnitCalc.zip)
 
 - **Getting Started Guide:** [Migrating from OMIA Web to Local OMIA IDE](https://omia.pro/blog/migrating-from-omia-web-to-local-omia-ide.html)
 - **More Resources:** [OMIA Blog](https://omia.pro/blog.html)
