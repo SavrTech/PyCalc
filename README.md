@@ -1,14 +1,11 @@
-# NexusIOT — IoT Concept App Wireframe
+# PyUnitCalc — Simple Cross-Platform Calculator
 
-<!-- MEDIA_PLACEHOLDER: Replace with a demo video or animated GIF of the NexusIOT app -->
+<!-- MEDIA_PLACEHOLDER: Replace with a demo video or animated GIF of the PyUnitCalc app -->
 <!-- https://github.com/user-attachments/assets/PLACEHOLDER_ASSET_ID -->
 
-A ready-to-use IoT concept app wireframe built with **OMIA Studio**. These aren't just static designs — they're functional layouts you can import, customize, and turn into cross-platform apps without starting from scratch.
-
-
+A ready-to-use calculator app concept built with **OMIA Studio**. These aren't just static designs — they're functional layouts you can import, customize, and turn into cross-platform apps without starting from scratch.
 
 https://github.com/user-attachments/assets/9bec75ed-803f-43db-b231-50a9544a98a5
-
 
 ## 🔗 Links
 
@@ -27,10 +24,6 @@ https://github.com/user-attachments/assets/9bec75ed-803f-43db-b231-50a9544a98a5
 
 ## 📦 About
 
-NexusIOT is an IoT concept app wireframe designed to give developers and product teams a head start. Use it as a foundation to build your own IoT dashboard or connected-device platform, adapt the layouts to your brand, and leverage OMIA Studio's AI-assisted tooling to ship faster.
+PyUnitCalc is a simple cross-platform calculator concept app designed to give developers and product teams a head start. Use it as a foundation to build your own calculator experience, adapt the layout and logic to your needs, and accelerate development with OMIA Studio.
 
 More designs across different use cases are coming.
-
-
-
-
