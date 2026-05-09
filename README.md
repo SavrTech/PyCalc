@@ -1,4 +1,4 @@
-# PyUnitCalc — Simple Cross-Platform Calculator
+# PyCalc — Simple Cross-Platform Calculator
 
 <!-- MEDIA_PLACEHOLDER: Replace with a demo video or animated GIF of the PyUnitCalc app -->
 <!-- https://github.com/user-attachments/assets/PLACEHOLDER_ASSET_ID -->
